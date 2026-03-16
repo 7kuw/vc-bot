@@ -1,4 +1,4 @@
-discord.py>=2.3.0
+discord.py[voice]
 python-dotenv
 PyNaCl
 audioop-lts
